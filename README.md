@@ -2,6 +2,10 @@ Fibonacci e Verificação de Letras em Kotlin com Jetpack Compose
 
 Este projeto contém um exempl de aplicativo simples utilizando Jetpack Compose em Kotlin:
 
+![image](https://github.com/user-attachments/assets/81e1845d-101b-42cf-bbfe-757652a481c9) ![image](https://github.com/user-attachments/assets/592fee18-ea60-4dfe-b34d-46dcedc2f534)
+
+
+
 Verificação se um número pertence à sequência de Fibonacci
 
 Verificação de Fibonacci
